@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/piggy111/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-14)
+
+
+### Features
+
+* upload artifact ([f682c8f](https://github.com/piggy111/greetings-ci/commit/f682c8fcdae8ac4d330e36297f1cb74d62349209))
+
+
+
 # [0.4.0](https://github.com/piggy111/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-14)
 
 
