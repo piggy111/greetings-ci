@@ -70,7 +70,7 @@ jobs:
     - name: Execute test
       shell: bash
       run: | 
-         chmod +x ./test-script.sh
+         chmod +x ./test-script2.sh
          ./test-script.sh ${{ github.event.inputs.myVersion || needs.build.outputs.artifact-tag }} ${{ github.event.inputs.myValues }}
          
     # NOTE: The Gradle Wrapper is the default and recommended way to run Gradle (https://docs.gradle.org/current/userguide/gradle_wrapper.html).
