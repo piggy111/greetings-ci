@@ -1,3 +1,12 @@
+# [0.10.0](https://github.com/piggy111/greetings-ci/compare/v0.9.0...v0.10.0) (2024-02-15)
+
+
+### Features
+
+* add testing to  pipeline ([751dd4f](https://github.com/piggy111/greetings-ci/commit/751dd4f4e9b45142fab3909c8e9a6d45992eb8ae))
+
+
+
 # [0.9.0](https://github.com/piggy111/greetings-ci/compare/v0.8.0...v0.9.0) (2024-02-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * upload artifact ([1cb8b50](https://github.com/piggy111/greetings-ci/commit/1cb8b50cc8e94b808ada9d762e6342e8a1e2dc69))
-
-
-
-# [0.5.0](https://github.com/piggy111/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-14)
-
-
-### Features
-
-* upload artifact ([f682c8f](https://github.com/piggy111/greetings-ci/commit/f682c8fcdae8ac4d330e36297f1cb74d62349209))
 
 
 
